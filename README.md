@@ -1,1 +1,3 @@
-# redes-sem-fio-2024-01
+# Projeto Final Redes Sem Fio 2024-1
+## Requisitos
+- ns-3.29 com módulo gpsr
